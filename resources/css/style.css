@@ -1,1 +1,41 @@
 /* style.css for Broadway Design */
+/* Updated 2017/08/04 */
+
+html {
+  font-family: Helvetica, sans-serif;
+  font-size 14px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+.flatiron {
+  background-image url(../../resources/img/the-flatiron-building.png);
+  width: 100%;
+}
+
+.flatiron h3 {
+  font-size: 23px;
+  color: white;
+}
+
+a {
+  color: white;
+  font-size 18px;
+}
+
+h2 {
+  font-size 32px;
+}
+
+h3 {
+  font-size 23px;
+}
+
+footer {
+  background-color: dimgray;
+  font-size: 11px;
+}
